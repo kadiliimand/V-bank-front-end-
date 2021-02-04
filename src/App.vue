@@ -2,7 +2,17 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/NewCustomer">NewCustomer</router-link> |
+      <router-link to="/NewAccount">NewAccount</router-link>
+      <br>
+      <br>
+      <router-link to="/Balance">Balance</router-link> |
+      <router-link to="/Deposit">Deposit</router-link> |
+      <router-link to="/Withdraw">Withdraw</router-link> |
+      <router-link to="/Transfer">Transfer</router-link>
+      <br>
+      <br>
+      <router-link to="/table">Customer report</router-link>
     </div>
     <router-view/>
   </div>
