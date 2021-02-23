@@ -1,8 +1,7 @@
-```
-V-bank_front-end files: V-bank_front-end / src / views /
-```
-
 Project is made during Vali-It training program.
+
+
+V-bank_front-end files: ``` V-bank_front-end / src / views / ```
 
 # Project setup and run
 ```
