@@ -1,19 +1,20 @@
-# vue-test
+V-bank_front-end files: V-bank_front-end / src / views /
 
-## Project setup
-```
-npm install
-```
+Project is made during Vali-It training program.
 
-### Compiles and hot-reloads for development
+# Project setup and run
 ```
-npm run serve
-```
+Check on CMD:
+npm -v
 
-### Compiles and minifies for production
-```
-npm run build
-```
+If you don't have npm
+- npm install
+- https://www.npmjs.com/get-npm
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+- In terminal: 
+  npm run serve
+
+There you will see, on what URL it will run.
+For example:  - Local:   http://localhost:8081/
+```
